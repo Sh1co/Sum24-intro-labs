@@ -1,9 +1,9 @@
 # Submission for lab 10
 
 <div style="text-align: center;">
-  <img src="/Resources/1.png" alt="Image 1" style="display: inline-block; margin: 0 10px;">
-  <img src="/Resources/2.png" alt="Image 2" style="display: inline-block; margin: 0 10px;">
-  <img src="/Resources/3.png" alt="Image 3" style="display: inline-block; margin: 0 10px;">
+  <img src="/Resources/1.png" alt="Image 1" style="display: inline-block; margin: 0 10px;" width="120" height="120">
+  <img src="/Resources/2.png" alt="Image 2" style="display: inline-block; margin: 0 10px;" width="120" height="120">
+  <img src="/Resources/3.png" alt="Image 3" style="display: inline-block; margin: 0 10px;" width="120" height="120">
 </div>
 
 ## Task 1
